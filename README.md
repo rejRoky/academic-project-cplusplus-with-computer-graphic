@@ -1,3 +1,3 @@
 
 Academic Project <br>
-C++ with Computer Graphic 
+C/C++ with Computer Graphic Fundamental
